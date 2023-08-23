@@ -13,3 +13,5 @@ YOLO v3 uses a more complex network architecture and incorporates skip connectio
 ## YOLOv3 output
 
 
+https://github.com/AkshayLaddha943/YOLO-ObjectDetection/assets/62604049/81da2f3c-ae22-4354-877c-e5cb5cabb5fe
+

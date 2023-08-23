@@ -7,4 +7,9 @@ YOLO v3 uses a more complex network architecture and incorporates skip connectio
 
 • Improved non-maximum suppression: YOLO v3 uses a more sophisticated non-maximum suppression algorithm, which helps to eliminate duplicate detections
 
-• Improved training: YOLO v3 uses a technique called label smoothing to improve the generalization of the network and reduce overfitting.
+• Improved training: YOLO v3 uses a technique called label smoothing to improve the generalization of the network and reduce overfitting
+
+
+## YOLOv3 output
+
+
